@@ -1,18 +1,21 @@
 # goit-algo-hw-04
 
 |Algorithm      |Data Size |Time(sec) |
+|---------------|----------|----------|
 |Merge Sort     |10        |0.000018  |
 |Merge Sort     |100       |0.000248  |
 |Merge Sort     |1000      |0.002414  |
 |Merge Sort     |10000     |0.026951  |
 |Merge Sort     |20000     |0.056031  |
 |Merge Sort     |100000    |0.317916  |
+|---------------|----------|----------|
 |Insertion Sort |10        |0.000008  |
 |Insertion Sort |100       |0.000218  |
 |Insertion Sort |1000      |0.023418  |
 |Insertion Sort |10000     |2.366614  |
 |Insertion Sort |20000     |9.543060  |
 |Insertion Sort |100000    |error     |
+|---------------|----------|----------|
 |Timsort        |10        |0.000003  |
 |Timsort        |100       |0.000009  |
 |Timsort        |1000      |0.000089  |
